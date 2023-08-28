@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/vincentbrodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincentbrodin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vincent brodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent brodin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vincentbrodin04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincentbrodin04" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC45x7pJBwhwikbiyqrYNpiQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincentbrodin04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinc04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinc04" height="30" width="40" /></a>
 </p>
 
