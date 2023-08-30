@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vincent Brodin</h1>
 <h3 align="center">A Game Developer from Sweden</h3>
 
-- Hi, I'm currently working on a [Unity Bits](https://github.com/VincentBrodin/Unity-Bits)
+- 👷‍♂️ I'm currently working on a [Unity Bits](https://github.com/VincentBrodin/Unity-Bits)
+
+- 🎮 Play my games :) [https://vincentbrodin.itch.io/](https://vincentbrodin.itch.io/)
 
 - 🏫 I’m currently studying at Södertörn University **Spelprogrammet - inriktning speldesign och scripting**
-
-- 📫 How to reach me **vincent.brodin21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
