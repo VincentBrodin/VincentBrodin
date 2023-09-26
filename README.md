@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vincent Brodin</h1>
 <h3 align="center">A Game Developer from Sweden</h3>
 
+- 🧑‍💻 [Dev-Blog](https://vincentbrodin.vercel.app/?order=asc)
+
 - 👷‍♂️ I'm currently working on a [Unity Bits](https://github.com/VincentBrodin/Unity-Bits)
 
 - 🎮 Play my games :) [https://vincentbrodin.itch.io/](https://vincentbrodin.itch.io/)
