@@ -3,7 +3,7 @@
 
 - 🧑‍💻 [Dev-Blog](https://vincentbrodin.vercel.app/?order=asc)
 
-- 👷‍♂️ I'm currently working on [BEM](https://github.com/Blind-Elephant-Media/)
+- 👷‍♂️ Check out [Blind Elephant Media](https://github.com/Blind-Elephant-Media/)
 
 - 🎮 Play my games :) [https://vincentbrodin.itch.io/](https://vincentbrodin.itch.io/)
 
