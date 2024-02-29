@@ -7,8 +7,6 @@
 
 - 🎮 Play my games :) [https://vincentbrodin.itch.io/](https://vincentbrodin.itch.io/)
 
-- 🏫 I’m currently studying at Södertörn University **Spelprogrammet - inriktning speldesign och scripting**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vincentbrodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincentbrodin" height="30" width="40" /></a>
