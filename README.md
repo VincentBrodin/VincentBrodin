@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent Brodin</h1>
 <h3 align="center">A Game Developer from Sweden</h3>
 
-- 🧑‍💻 [Dev-Blog](https://vincentbrodin.vercel.app/?order=asc)
-
-- 👷‍♂️ Check out [Blind Elephant Media](https://github.com/Blind-Elephant-Media/)
+- [Network Audio](https://github.com/VincentBrodin/Mirror-Network-Audio)
 
 - 🎮 Play my games :) [https://vincentbrodin.itch.io/](https://vincentbrodin.itch.io/)
 
