@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vincent Brodin</h1>
-<h3 align="center">A Game Developer from Sweden</h3>
 
 - [Network Audio](https://github.com/VincentBrodin/Mirror-Network-Audio)
 
