@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://yt3.googleusercontent.com/G07Dl60DBVRWw5K4o574UZiZ8_6R3RKL2cNQQHFLrg6tDNA3S0bmseN0hCxti4xqYzHocZLhlA=s160-c-k-c0x00ffffff-no-rj"/>
+<img align="right" height="150" src="https://github.com/user-attachments/assets/d32a71f4-fce2-4a9a-a810-4fdf1a620ab6"/>
 
 ###
 
