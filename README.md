@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/d32a71f4-fce2-4a9a-a810-4fdf1a620ab6"/>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
