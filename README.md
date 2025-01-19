@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hej, jag är Vincent Brodin</h1>
 
-<h3 align="center">Jag heter Vincent Brodin, och jag studerar just nu till systemutvecklare med fokus på .NET. Programmering är något jag verkligen brinner för, och jag gillar att skapa lösningar som är både användbara och hållbara.</h3>
+<p align="center">Jag heter Vincent Brodin, och jag studerar just nu till systemutvecklare med fokus på .NET. Programmering är något jag verkligen brinner för, och jag gillar att skapa lösningar som är både användbara och hållbara.</p>
 
-###
+### Project
 
-- ‣ [🎵 Spotify quick menu (En mini-spelare som alltid är på din skärm för att enkelt styra din musik)](https://github.com/VincentBrodin/SpotifyQuickMenu)
+- ‣ [🎵 Spotify quick menu](https://github.com/VincentBrodin/SpotifyQuickMenu)
 
-- ‣ [🌐 Stratus (Ett ultralätt .NET-backendramverk som gör det enkelt att skapa anpassade routers och rendering engines för flexibel och effektiv webutveckling)](https://github.com/VincentBrodin/Stratus)
+- ‣ [🌐 Stratus](https://github.com/VincentBrodin/Stratus)
 
-- ‣ [🔌 TCP client & server (Ett praktiskt projekt för att lära mig TCP-nätverk och multitrådad kommunikation med C#)](https://github.com/VincentBrodin/TCPLearn)
+- ‣ [🔌 TCP client & server](https://github.com/VincentBrodin/TCPLearn)
 
 ###
 <h3 align="left">Kontakta mig:</h3>
