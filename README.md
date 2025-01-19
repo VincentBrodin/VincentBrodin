@@ -4,11 +4,11 @@
 
 ###
 
-- ‣ [🎵 Spotify quick menu](https://github.com/VincentBrodin/SpotifyQuickMenu)
+- ‣ [🎵 Spotify quick menu (En mini-spelare som alltid är på din skärm för att enkelt styra din musik)](https://github.com/VincentBrodin/SpotifyQuickMenu)
 
-- ‣ [🌐 Stratus](https://github.com/VincentBrodin/Stratus)
+- ‣ [🌐 Stratus (Ett ultralätt .NET-backendramverk som gör det enkelt att skapa anpassade routers och rendering engines för flexibel och effektiv webutveckling)](https://github.com/VincentBrodin/Stratus)
 
-- ‣ [🔌 TCP client & server](https://github.com/VincentBrodin/TCPLearn)
+- ‣ [🔌 TCP client & server (Ett praktiskt projekt för att lära mig TCP-nätverk och multitrådad kommunikation med C#)](https://github.com/VincentBrodin/TCPLearn)
 
 ###
 <h3 align="left">Kontakta mig:</h3>
