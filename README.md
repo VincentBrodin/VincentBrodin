@@ -1,7 +1,3 @@
-<h1 align="center">👋 Hej, jag är Vincent Brodin</h1>
-
-<p align="center">Jag heter Vincent Brodin, och jag studerar just nu till systemutvecklare med fokus på .NET. Programmering är något jag verkligen brinner för, och jag gillar att skapa lösningar som är både användbara och hållbara.</p>
-
 <a align="center" href="https://vincentbrodin.github.io">Portfolio</a>
 
 ### Project
