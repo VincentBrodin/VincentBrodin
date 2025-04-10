@@ -6,7 +6,7 @@
 
 - [Blog](https://github.com/VincentBrodin/blog) - A SSR blog website that uses markdown styling, built with ASP.NET
 
-- [Flera](https://github.com/VincentBrodin/flera) - A library for effortlessly building and configuring TCP servers and clients, great for both games and apps, built with go´s stdlib
+- [Flera](https://github.com/VincentBrodin/flera) - a lightweight networking library for Go, designed to simplify the creation of multiplayer applications. It leverages both TCP and UDP for reliable and fast communication, making it suitable for a wide range of applications, from real-time games to chat servers.
 
 ###
 <h3 align="left">Contact:</h3>
