@@ -1,12 +1,13 @@
-<a align="center" href="https://vincentbrodin.github.io">Portfolio</a>
+<a align="center" href="https://vinbro.se">Portfolio</a>
 
-### Project
+### Projects
+- [godo](https://github.com/VincentBrodin/godo) - A modern build system inspired by Make with some much needed QoL changes.
 
-- [GoGym](https://github.com/VincentBrodin/gogym) - Web app for tracking, storing and improving your workouts, built with go and vue
+- [GoGym](https://github.com/VincentBrodin/gogym) - Web app for tracking, storing and improving your workouts, built with go and vue.
 
-- [Blog](https://github.com/VincentBrodin/blog) - A SSR blog website that uses markdown styling, built with ASP.NET
+- [Blog](https://github.com/VincentBrodin/blog) - A SSR blog website that uses markdown styling, built with ASP.NET.
 
-- [Flera](https://github.com/VincentBrodin/flera) - a lightweight networking library for Go, designed to simplify the creation of multiplayer applications. It leverages both TCP and UDP for reliable and fast communication, making it suitable for a wide range of applications, from real-time games to chat servers.
+- [flera](https://github.com/VincentBrodin/flera) - A lightweight networking library for Go, designed to simplify the creation of multiplayer applications. It leverages both TCP and UDP for reliable and fast communication, making it suitable for a wide range of applications, from real-time games to chat servers.
 
 ###
 <h3 align="left">Contact:</h3>
