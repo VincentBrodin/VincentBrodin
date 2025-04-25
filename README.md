@@ -1,7 +1,7 @@
 <a align="center" href="https://vinbro.se">Portfolio</a>
 
 ### Projects
-- [godo](https://github.com/VincentBrodin/godo) - A modern build system inspired by Make with some much needed QoL changes.
+- [godo](https://github.com/VincentBrodin/godo) - A modern build system inspired by Make with some much needed QoL changes writen in go.
 
 - [GoGym](https://github.com/VincentBrodin/gogym) - Web app for tracking, storing and improving your workouts, built with go and vue.
 
