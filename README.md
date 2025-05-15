@@ -3,6 +3,8 @@
 ### Projects
 - [godo](https://github.com/VincentBrodin/godo) - A modern build system inspired by Make with some much needed QoL changes writen in go.
 
+- [suddig](https://github.com/VincentBrodin/suddig) - A fast and modular fuzzy library built in go, allows O(n/wc) `wc = cpu count` on any distance algorithm.
+
 - [GoGym](https://github.com/VincentBrodin/gogym) - Web app for tracking, storing and improving your workouts, built with go and vue.
 
 - [Blog](https://github.com/VincentBrodin/blog) - A SSR blog website that uses markdown styling, built with ASP.NET.
