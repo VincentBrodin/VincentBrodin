@@ -10,7 +10,7 @@ I like building practical tools and applications that are fast, minimal, and eas
 - [**suddig**](https://github.com/VincentBrodin/suddig)  
   A fast, modular fuzzy search library written in Go. Supports any distance algorithm with O(n/wc) performance (`wc = CPU cores`).
 
-- [**GoGym**](https://github.com/VincentBrodin/gogym)  
+- [**gogym**](https://github.com/VincentBrodin/gogym)  
   A full-featured workout tracking web app built with Go and Vue. Store, visualize, and optimize your training.
 
 - [**Blog**](https://github.com/VincentBrodin/blog)  
