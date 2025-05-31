@@ -7,6 +7,9 @@ I like building practical tools and applications that are fast, minimal, and eas
 - [**godo**](https://github.com/VincentBrodin/godo)  
   A modern, Go-based build system inspired by Make, with quality-of-life improvements and a cleaner syntax.
 
+- [**whale**](https://github.com/VincentBrodin/whale)  
+  A simple TUI library for go.
+
 - [**suddig**](https://github.com/VincentBrodin/suddig)  
   A fast, modular fuzzy search library written in Go. Supports any distance algorithm with O(n/wc) performance (`wc = CPU cores`).
 
