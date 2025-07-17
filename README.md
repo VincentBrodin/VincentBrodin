@@ -19,9 +19,6 @@ I like building practical tools and applications that are fast, minimal, and eas
 - [**Blog**](https://github.com/VincentBrodin/blog)  
   A Markdown-powered SSR blog engine built with ASP.NET, focusing on simplicity and readability.
 
-- [**flera**](https://github.com/VincentBrodin/flera)  
-  A lightweight networking library for Go. Uses both TCP and UDP for efficient communication—ideal for multiplayer games and real-time apps.
-
 ---
 
 ### 📫 Contact
