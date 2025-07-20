@@ -4,6 +4,9 @@ I like building practical tools and applications that are fast, minimal, and eas
 
 ### 🚀 Projects
 
+- [**pendlo**](https://github.com/VincentBrodin/pendlo)  
+  PWA app for planning recurring trips across Sweden. Integrates the Trafiklab API for routes across train and bus companies.
+
 - [**godo**](https://github.com/VincentBrodin/godo)  
   A modern, Go-based build system inspired by Make, with quality-of-life improvements and a cleaner syntax.
 
@@ -18,6 +21,9 @@ I like building practical tools and applications that are fast, minimal, and eas
 
 - [**Blog**](https://github.com/VincentBrodin/blog)  
   A Markdown-powered SSR blog engine built with ASP.NET, focusing on simplicity and readability.
+  
+- [**csv**](https://github.com/VincentBrodin/csv)  
+  A fast and easy-to-use Go library for streaming CSV encoding/decoding with struct tags, inspired by encoding/json.
 
 ---
 
