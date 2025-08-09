@@ -1,7 +1,4 @@
-<p align="center"><i>"Simplicity is the ultimate sophistication."</i><br>— L.d.V.</p>
-
----
-
+<!-- <p align="center"><i>"Simplicity is the ultimate sophistication."</i></p> -->
 ### tools
 
 - [**suddig**](https://github.com/VincentBrodin/suddig)  
