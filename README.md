@@ -1,12 +1,14 @@
 <!-- <p align="center"><i>"Simplicity is the ultimate sophistication."</i></p> -->
 ### tools
 
+- [**fulxo**](https://github.com/VincentBrodin/fluxo)  
+Rust tool for automating monitor management in Hyprland. Runs user-defined commands on display connect/disconnect events.
+
 - [**suddig**](https://github.com/VincentBrodin/suddig)  
 High-performance, modular fuzzy search library in Go. supports any distance algorithm, optimized to run in O(n/wc) using parallelism across CPU cores.
 
 - [**csv**](https://github.com/VincentBrodin/csv)  
 Streaming CSV encoder/decoder library in Go with struct tag support; API modeled after encoding/json for ease of adoption; optimized for low memory overhead.
-
 
 ### projects
 
