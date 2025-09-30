@@ -1,8 +1,11 @@
 <!-- <p align="center"><i>"Simplicity is the ultimate sophistication."</i></p> -->
 ### tools
 
-- [**fulxo**](https://github.com/VincentBrodin/fluxo)  
-Rust tool for automating monitor management in Hyprland. Runs user-defined commands on display connect/disconnect events.
+- [**nest**](https://github.com/VincentBrodin/nest)  
+Automatically moves your apps to the workspaces you usually place them in, so they always find their way home.
+
+- [**fluxo**](https://github.com/VincentBrodin/fluxo)  
+App for automating monitor management in Hyprland. Runs user-defined commands on display connect/disconnect events.
 
 - [**suddig**](https://github.com/VincentBrodin/suddig)  
 High-performance, modular fuzzy search library in Go. supports any distance algorithm, optimized to run in O(n/wc) using parallelism across CPU cores.
