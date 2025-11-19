@@ -1,25 +1,26 @@
-<!-- <p align="center"><i>"Simplicity is the ultimate sophistication."</i></p> -->
-### tools
+<!-- ### tools -->
 
-- [**nest**](https://github.com/VincentBrodin/nest)  
-Automatically moves your apps to the workspaces you usually place them in, so they always find their way home.
+<!-- - [**nest**](https://github.com/VincentBrodin/nest) -->  
+<!-- Automatically moves your apps to the workspaces you usually place them in, so they always find their way home. -->
 
-- [**fluxo**](https://github.com/VincentBrodin/fluxo)  
-App for automating monitor management in Hyprland. Runs user-defined commands on display connect/disconnect events.
+<!-- - [**fluxo**](https://github.com/VincentBrodin/fluxo) -->  
+<!-- App for automating monitor management in Hyprland. Runs user-defined commands on display connect/disconnect events. -->
 
-- [**suddig**](https://github.com/VincentBrodin/suddig)  
-High-performance, modular fuzzy search library in Go. supports any distance algorithm, optimized to run in O(n/wc) using parallelism across CPU cores.
+<!-- - [**suddig**](https://github.com/VincentBrodin/suddig) -->  
+<!-- High-performance, modular fuzzy search library in Go. supports any distance algorithm, optimized to run in O(n/wc) using parallelism across CPU cores. -->
 
-- [**csv**](https://github.com/VincentBrodin/csv)  
-Streaming CSV encoder/decoder library in Go with struct tag support; API modeled after encoding/json for ease of adoption; optimized for low memory overhead.
+<!-- - [**csv**](https://github.com/VincentBrodin/csv) -->  
+<!-- Streaming CSV encoder/decoder library in Go with struct tag support; API modeled after encoding/json for ease of adoption; optimized for low memory overhead. -->
 
-### projects
+<!-- ### projects -->
 
-- [**pendlo**](https://github.com/VincentBrodin/pendlo)  
-PWA app for planning recurring trips across Sweden. Integrates the Trafiklab API for routes across train and bus companies.
+<!-- - [**pendlo**](https://github.com/VincentBrodin/pendlo) -->  
+<!-- PWA app for planning recurring trips across Sweden. Integrates the Trafiklab API for routes across train and bus companies. -->
 
-- [**gogym**](https://github.com/VincentBrodin/gogym)  
-A full-featured workout tracking web app built with Go and Vue. Store, visualize, and optimize your training.
+<!-- - [**gogym**](https://github.com/VincentBrodin/gogym) -->  
+<!-- A full-featured workout tracking web app built with Go and Vue. Store, visualize, and optimize your training. -->
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 ### skills
 <p align="left">
@@ -31,11 +32,3 @@ A full-featured workout tracking web app built with Go and Vue. Store, visualize
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
-
-### contact
-<p align="left">
-<a href="https://linkedin.com/in/vincent-brodin-820051242" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vincent Brodin" height="30" width="40" />
-</a>
-</p>
-
