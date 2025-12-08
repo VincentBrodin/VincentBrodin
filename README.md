@@ -22,6 +22,8 @@
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
+## $$\exists \ \text{thought} \implies \exists \ \text{me}$$
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
